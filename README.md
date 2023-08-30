@@ -16,12 +16,8 @@
 <h3>:star: Java and Spring Boot</h3>
 <h2> <a href="https://github.com/birlutiuclaudiu/TravelPoints.git"> Travel Points </a> </h2>
 
-
-<h3 class="project-title">AI Chatbot - Project Y</h3>
-<p>Working on an AI-powered chatbot that uses natural language processing and machine learning to engage with users. This project demonstrates my interest in AI and its real-world applications.</p>
-      
-<h3 class="project-title">Computer Vision Enhancement - Project Z</h3>
-<p>Implemented Computer Vision techniques to enhance image quality and extract meaningful insights. This project illustrates my ability to bridge Computer Vision with practical solutions.</p>
+<h3>:fire: C/C++</h3>
+<h2> <a href="https://github.com/birlutiuclaudiu/TravelPoints.git"> Travel Points </a> </h2>
 
   
 
