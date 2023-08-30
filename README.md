@@ -12,7 +12,7 @@
 
 
 <h2>My Projects</h2>
-<h3 class="project-title">Java Web Application - Project X</h3>
+### Java Web Application - Project X
 <p>Developed a feature-rich web application using Java and related technologies. This project showcases my skills in backend development, database integration, and user experience design.</p>
        
 <h3 class="project-title">AI Chatbot - Project Y</h3>
