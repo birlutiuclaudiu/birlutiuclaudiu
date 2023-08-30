@@ -18,8 +18,8 @@
 <p>Feel free to reach out for collaborations, discussions, or simply to connect!</p>
 <ul>
     <li>Email: birlutiuclaudiuc@gmail.com</li>
-    <li>LinkedIn: <a href="[www.linkedin.com/in/claudiu-birlutiu-79a407226](https://www.linkedin.com/in/claudiu-birlutiu-79a407226/)">Claudiu Birlutiu</a></li>
-    <li>GitHub: <a href="[www.linkedin.com/in/claudiu-birlutiu-79a407226](https://github.com/birlutiuclaudiu)"> ClaudiuGithub </a></li>
+    <li>LinkedIn: <a href="https://www.linkedin.com/in/claudiu-birlutiu-79a407226/">Claudiu Birlutiu</a></li>
+    <li>GitHub: <a href="https://github.com/birlutiuclaudiu"> ClaudiuGithub </a></li>
 </ul>
 
 <p>Thank you for visiting my GitHub portfolio!
