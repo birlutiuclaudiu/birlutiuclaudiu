@@ -20,13 +20,16 @@
   <li>Milk</li>
 </ul>
 
- 
+<h3>:star: Python</h3>
+<ul>
+  <li><a href="https://github.com/birlutiuclaudiu/Chat_Deployement.git"> Simple Chat Django</a></li>
+</ul>
 
 <h3>:fire: C/C++</h3>
 <h4> <a href="https://github.com/birlutiuclaudiu/TravelPoints.git"> Travel Points </a> </h4>
 
-<h3>:sparkles:  Security </h3>
-<h4> <a href="https://github.com/birlutiuclaudiu/TravelPoints.git"> Travel Points </a> </h4> 
+<h3>:sparkles: Security </h3>
+<h4> <a href="https://github.com/birlutiuclaudiu/SecurityOfSystemsAndApplications.git"> SEED Labs - solutions </a> </h4> 
 
 <h3>:sparkles: Node Js / React </h3>
 <h4> <a href="https://github.com/birlutiuclaudiu/TravelPoints.git"> Travel Points </a> </h4> 
