@@ -13,7 +13,7 @@
 
 <h2>My Projects</h2>
 
-<h3> Travel Points </h3>
+<h3>🤖 Travel Points </h3>
 Repository: [Project X Repository](https://github.com/claudiugit/project-x)
 
 <h3 class="project-title">AI Chatbot - Project Y</h3>
