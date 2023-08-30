@@ -10,22 +10,18 @@
 <p>As a skilled Java developer, I've honed my programming abilities and applied them to various projects. My proficiency in Java allows me to create efficient, robust, and maintainable applications.
 </p>
 
+
 <h2>My Projects</h2>
+<h3 class="project-title">Java Web Application - Project X</h3>
+<p>Developed a feature-rich web application using Java and related technologies. This project showcases my skills in backend development, database integration, and user experience design.</p>
+       
+<h3 class="project-title">AI Chatbot - Project Y</h3>
+<p>Working on an AI-powered chatbot that uses natural language processing and machine learning to engage with users. This project demonstrates my interest in AI and its real-world applications.</p>
       
-        <h3 class="project-title">Java Web Application - Project X</h3>
-        <p>Developed a feature-rich web application using Java and related technologies. This project showcases my skills in backend development, database integration, and user experience design.</p>
-        </div>
+<h3 class="project-title">Computer Vision Enhancement - Project Z</h3>
+<p>Implemented Computer Vision techniques to enhance image quality and extract meaningful insights. This project illustrates my ability to bridge Computer Vision with practical solutions.</p>
 
-        <div class="project">
-        <h3 class="project-title">AI Chatbot - Project Y</h3>
-        <p>Working on an AI-powered chatbot that uses natural language processing and machine learning to engage with users. This project demonstrates my interest in AI and its real-world applications.</p>
-        </div>
-
-        <div class="project">
-        <h3 class="project-title">Computer Vision Enhancement - Project Z</h3>
-        <p>Implemented Computer Vision techniques to enhance image quality and extract meaningful insights. This project illustrates my ability to bridge Computer Vision with practical solutions.</p>
-        </div>
-        
+  
 
 <h2>Future Endeavors</h2>
 <p>I'm committed to continuous learning and growth. I plan to pursue further education in AI and Computer Vision, aiming to contribute to advancements in these fields.
