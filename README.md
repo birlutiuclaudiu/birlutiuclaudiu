@@ -12,8 +12,8 @@
 
 
 <h2>My Projects</h2>
-### Java Web Applications
-## Travel Points
+<h3> Java Web Applications</h3>
+<h1> Travel Points </h1>
 
 Repository: [Project X Repository](https://github.com/claudiugit/project-x)
 
