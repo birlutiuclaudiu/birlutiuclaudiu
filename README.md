@@ -4,7 +4,10 @@
 - 🔭 I’m currently study **Artificial Intelligence and Computer Vision master, Technical University of Cluj-Napoca**
 
 - 🌱 Bachelor's degree **Technical University of Cluj-Napoca, Faculty of Automation and Computer Science**
-
+<h2>My Expertise</h2>
+        <h3>Java Development 🚀</h3>
+        <p>As a skilled Java developer, I've honed my programming abilities and applied them to various projects. My proficiency in Java allows me to create efficient, robust, and maintainable applications.</p>
+        
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
