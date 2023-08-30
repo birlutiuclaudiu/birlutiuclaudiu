@@ -19,7 +19,7 @@
 <ul>
     <li>Email: birlutiuclaudiuc@gmail.com</li>
     <li>LinkedIn: <a href="www.linkedin.com/in/claudiu-birlutiu-79a407226">Claudiu Birlutiu</a></li>
-    <li>GitHub: <a href="[https://github.com/claudiugit](https://github.com/birlutiuclaudiu)">Github </a></li>
+    <li>GitHub: <a href="www.linkedin.com/in/claudiu-birlutiu-79a407226"> ClaudiuGithub </a></li>
 </ul>
 
 <p>Thank you for visiting my GitHub portfolio!
