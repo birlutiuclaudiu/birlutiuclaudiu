@@ -14,7 +14,7 @@
 <h2>My Projects</h2>
 
 <h3>:star: Java and Spring Boot</h3>
-<h2><a href="https://github.com/birlutiuclaudiu/TravelPoints.git"> Travel Points  </a> <\h2>
+<h2> <a href="https://github.com/birlutiuclaudiu/TravelPoints.git"> Travel Points </a> </h2>
 
 
 <h3 class="project-title">AI Chatbot - Project Y</h3>
