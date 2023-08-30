@@ -15,6 +15,7 @@
 
 <h3>:star: Java and Spring Boot</h3>
 <h4> <a href="https://github.com/birlutiuclaudiu/TravelPoints.git"> Travel Points </a> </h4>
+<h4> <a href="https://github.com/birlutiuclaudiu/SpringSecurity.git"> Demo Spring Security </a> </h4>
 
 <h3>:fire: C/C++</h3>
 <h4> <a href="https://github.com/birlutiuclaudiu/TravelPoints.git"> Travel Points </a> </h4>
