@@ -31,6 +31,13 @@
 <h3>:sparkles: Node Js / React </h3>
 <h4> <a href="https://github.com/birlutiuclaudiu/TravelPoints.git"> Travel Points </a> </h4> 
 
+<h3>:star: Computer Networking</h3>
+<ul>
+  <li><a href="https://github.com/birlutiuclaudiu/NetworkDesign.git"> Network Design </a></li>
+  <li><a href="https://github.com/birlutiuclaudiu/SpringSecurity.git"> Demo Spring Security </a> </li>
+  <li>Milk</li>
+</ul>
+
 <h2>Future Endeavors</h2>
 <p>I'm committed to continuous learning and growth. I plan to pursue further education in AI and Computer Vision, aiming to contribute to advancements in these fields.
 </p>
