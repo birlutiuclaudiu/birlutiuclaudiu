@@ -12,8 +12,8 @@
 
 
 <h2>My Projects</h2>
-### Java Web Application - Project X
-🌐 This project showcases my Java development skills by creating a dynamic web application. Utilizing Java, Spring Boot, and front-end technologies, I built an interactive platform that *describe the main features and purpose of the application*.
+### Java Web Applications
+## Travel Points
 
 Repository: [Project X Repository](https://github.com/claudiugit/project-x)
 
