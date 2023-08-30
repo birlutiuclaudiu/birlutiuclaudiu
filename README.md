@@ -12,9 +12,8 @@
 
 
 <h2>My Projects</h2>
-<h3> Java Web Applications</h3>
-<h1> Travel Points </h1>
 
+<h1> Travel Points </h1>
 Repository: [Project X Repository](https://github.com/claudiugit/project-x)
 
 <h3 class="project-title">AI Chatbot - Project Y</h3>
