@@ -13,8 +13,8 @@
 
 <h2>My Projects</h2>
 
-<h3>🤖 Travel Points </h3>
-Repository: [Project X Repository](https://github.com/claudiugit/project-x)
+<h3>🤖 <a href="https://github.com/birlutiuclaudiu/TravelPoints.git"> Travel Points  </a></h3>
+
 
 <h3 class="project-title">AI Chatbot - Project Y</h3>
 <p>Working on an AI-powered chatbot that uses natural language processing and machine learning to engage with users. This project demonstrates my interest in AI and its real-world applications.</p>
