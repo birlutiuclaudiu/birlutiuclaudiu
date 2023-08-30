@@ -13,8 +13,10 @@
 
 <h2>My Projects</h2>
 ### Java Web Application - Project X
-<p>Developed a feature-rich web application using Java and related technologies. This project showcases my skills in backend development, database integration, and user experience design.</p>
-       
+🌐 This project showcases my Java development skills by creating a dynamic web application. Utilizing Java, Spring Boot, and front-end technologies, I built an interactive platform that *describe the main features and purpose of the application*.
+
+Repository: [Project X Repository](https://github.com/claudiugit/project-x)
+
 <h3 class="project-title">AI Chatbot - Project Y</h3>
 <p>Working on an AI-powered chatbot that uses natural language processing and machine learning to engage with users. This project demonstrates my interest in AI and its real-world applications.</p>
       
