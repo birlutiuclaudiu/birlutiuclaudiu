@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Claudiu-Andrei Birlutiu - software engineer</h1>
-<h3 align="center"> Recent Computer Science graduate (Technical University of Cluj-Napoca) with a passion for Software Engineering and Java Development</h3>
+<h3 align="center"> Recent Computer Science graduate with a passion for Software Engineering and Java Development</h3>
 
 - 🔭 I’m currently study **Artificial Intelligence and Computer Vision master, Technical University of Cluj-Napoca**
 
