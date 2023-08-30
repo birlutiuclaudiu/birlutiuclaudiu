@@ -22,6 +22,9 @@
 <h3>:sparkles:  Security </h3>
 <h4> <a href="https://github.com/birlutiuclaudiu/TravelPoints.git"> Travel Points </a> </h4> 
 
+<h3>:sparkles: Node Js / React </h3>
+<h4> <a href="https://github.com/birlutiuclaudiu/TravelPoints.git"> Travel Points </a> </h4> 
+
 <h2>Future Endeavors</h2>
 <p>I'm committed to continuous learning and growth. I plan to pursue further education in AI and Computer Vision, aiming to contribute to advancements in these fields.
 </p>
