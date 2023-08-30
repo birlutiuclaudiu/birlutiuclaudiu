@@ -14,12 +14,13 @@
 <h2>My Projects</h2>
 
 <h3>:star: Java and Spring Boot</h3>
-<h2> <a href="https://github.com/birlutiuclaudiu/TravelPoints.git"> Travel Points </a> </h2>
+<h4> <a href="https://github.com/birlutiuclaudiu/TravelPoints.git"> Travel Points </a> </h4>
 
 <h3>:fire: C/C++</h3>
-<h2> <a href="https://github.com/birlutiuclaudiu/TravelPoints.git"> Travel Points </a> </h2>
+<h4> <a href="https://github.com/birlutiuclaudiu/TravelPoints.git"> Travel Points </a> </h4>
 
-  
+<h3>:fire: Security </h3>
+<h4> <a href="https://github.com/birlutiuclaudiu/TravelPoints.git"> Travel Points </a> </h4> 
 
 <h2>Future Endeavors</h2>
 <p>I'm committed to continuous learning and growth. I plan to pursue further education in AI and Computer Vision, aiming to contribute to advancements in these fields.
