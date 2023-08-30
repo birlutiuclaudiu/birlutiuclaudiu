@@ -14,8 +14,13 @@
 <h2>My Projects</h2>
 
 <h3>:star: Java and Spring Boot</h3>
-- ** <a href="https://github.com/birlutiuclaudiu/TravelPoints.git"> Travel Points </a>
-- ** <a href="https://github.com/birlutiuclaudiu/SpringSecurity.git"> Demo Spring Security </a> 
+<ul>
+  <li><a href="https://github.com/birlutiuclaudiu/TravelPoints.git"> Travel Points </a></li>
+  <li><a href="https://github.com/birlutiuclaudiu/SpringSecurity.git"> Demo Spring Security </a> </li>
+  <li>Milk</li>
+</ul>
+
+ 
 
 <h3>:fire: C/C++</h3>
 <h4> <a href="https://github.com/birlutiuclaudiu/TravelPoints.git"> Travel Points </a> </h4>
