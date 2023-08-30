@@ -17,12 +17,11 @@
 <ul>
   <li><a href="https://github.com/birlutiuclaudiu/TravelPoints.git"> Travel Points </a></li>
   <li><a href="https://github.com/birlutiuclaudiu/SpringSecurity.git"> Demo Spring Security </a> </li>
-  <li>Milk</li>
 </ul>
 
 <h3>:star: Python</h3>
 <ul>
-  <li><a href="https://github.com/birlutiuclaudiu/Chat_Deployement.git"> Simple Chat Django</a></li>
+  <li><a href="https://github.com/birlutiuclaudiu/SimpleChat.git"> Simple Chat Django</a></li>
 </ul>
 
 <h3>:fire: C/C++</h3>
@@ -37,8 +36,7 @@
 <h3>:star: Computer Networking</h3>
 <ul>
   <li><a href="https://github.com/birlutiuclaudiu/NetworkDesign.git"> Network Design </a></li>
-  <li><a href="https://github.com/birlutiuclaudiu/SpringSecurity.git"> Demo Spring Security </a> </li>
-  <li>Milk</li>
+  <li><a href="https://github.com/birlutiuclaudiu/RelayNodes.git">Relay Nodes </a> </li>
 </ul>
 
 <h2>Future Endeavors</h2>
