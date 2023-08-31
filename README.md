@@ -10,6 +10,8 @@
 <p>As a skilled Java developer, I've honed my programming abilities and applied them to various projects. My proficiency in Java allows me to create efficient, robust, and maintainable applications.
 </p>
 
+<h3>My Resume </h3>
+
 
 <h2>My Projects</h2>
 
