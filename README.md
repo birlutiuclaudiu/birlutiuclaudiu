@@ -83,6 +83,7 @@
     <li>Email: birlutiuclaudiuc@gmail.com</li>
     <li>LinkedIn: <a href="https://www.linkedin.com/in/claudiu-birlutiu-79a407226/">Claudiu Birlutiu</a></li>
     <li>GitHub: <a href="https://github.com/birlutiuclaudiu"> ClaudiuGithub </a></li>
+    <li>YouTube: <a href="https://youtube.com/playlist?list=PLACrcGliaX5-nVdtOABlBx-kIkph3i8Sh&si=n6-sTqC6LFC3XHOP"> :tv: Claudiu Birlutiu </a></li> </li>
 </ul>
 
 <p>Thank you for visiting my GitHub portfolio!
@@ -97,5 +98,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Watch the video]()]([https://youtu.be/nTQUwghvy5Q](https://www.youtube.com/playlist?list=PLACrcGliaX5-nVdtOABlBx-kIkph3i8Sh)https://www.youtube.com/playlist?list=PLACrcGliaX5-nVdtOABlBx-kIkph3i8Sh)
 
