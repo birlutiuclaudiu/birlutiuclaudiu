@@ -21,11 +21,15 @@
 
 <h3>:computer: Python</h3>
 <ul>
-  <li><a href="https://github.com/birlutiuclaudiu/SimpleChat.git"> Simple Chat Django</a></li>
+  <li><a href="https://github.com/birlutiuclaudiu/SimpleChat.git"> Simple Chat Django</a></li> 
+  <li><a href="https://github.com/birlutiuclaudiu/PredictMergingConflicts.git"> Predict Merging Conflicts - Random Forest Classifier </a></li>
 </ul>
 
 <h3>:computer: C/C++</h3>
-<h4> <a href="https://github.com/birlutiuclaudiu/TravelPoints.git"> Travel Points </a> </h4>
+<ul>
+  <li><a href="https://github.com/birlutiuclaudiu/HumanComputerInteraction"> Human-Computer Interaction, Technical University of Cluj-Napoca - solutions </a></li>
+  <li><a href="https://github.com/birlutiuclaudiu/SpringSecurity.git"> Demo Spring Security </a> </li>
+</ul>
 
 <h3>:computer: Security </h3>
 <h4> <a href="https://github.com/birlutiuclaudiu/SecurityOfSystemsAndApplications.git"> SEED Labs - solutions </a> </h4> 
