@@ -16,8 +16,12 @@
 <h3>:computer: Java and Spring Boot</h3>
 <ul>
   <li><a href="https://github.com/birlutiuclaudiu/TravelPoints.git"> Travel Points </a></li>
-  <li><a href="https://github.com/birlutiuclaudiu/SpringSecurity.git"> Demo Spring Security </a> </li>
+  <li><a href="https://github.com/birlutiuclaudiu/SpringSecurity.git"> Demo Spring Security </a> </li> 
+  <li><a href="https://github.com/birlutiuclaudiu/FoodDeliveryManagemntSystem.git"> Food Delivery Managemnt System</a> </li>  
+  <li><a href="https://github.com/birlutiuclaudiu/OrderManagement.git"> Order Management</a> </li>
+  <li><a href="https://github.com/birlutiuclaudiu/QueuesSimulation.git"> Queues Simulation - multithreading</a> </li>
 </ul>
+
 
 <h3>:computer: Python & AI</h3>
 <ul>
