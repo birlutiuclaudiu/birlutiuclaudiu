@@ -32,7 +32,10 @@
 </ul>
 
 <h3>:computer: Security </h3>
-<h4> <a href="https://github.com/birlutiuclaudiu/SecurityOfSystemsAndApplications.git"> SEED Labs - solutions </a> </h4> 
+<ul>
+ <li> <a href="https://github.com/birlutiuclaudiu/SecurityOfSystemsAndApplications.git"> SEED Labs - solutions </a> </li>
+</ul>
+
 
 <h3>:computer: Node Js / React </h3>
 <h4> <a href="https://github.com/birlutiuclaudiu/TravelPoints.git"> Travel Points </a> </h4> 
