@@ -19,17 +19,17 @@
   <li><a href="https://github.com/birlutiuclaudiu/SpringSecurity.git"> Demo Spring Security </a> </li>
 </ul>
 
-<h3>:computer: Python</h3>
+<h3>:computer: Python & AI</h3>
 <ul>
   <li><a href="https://github.com/birlutiuclaudiu/SimpleChat.git"> Simple Chat Django</a></li> 
   <li><a href="https://github.com/birlutiuclaudiu/PredictMergingConflicts.git"> Predict Merging Conflicts - Random Forest Classifier </a></li> 
   <li><a href="https://github.com/birlutiuclaudiu/TextAnalyzingHuggingFace.git">Text Analyzing Hugging Face - NLP </a></li>
 </ul>
 
-<h3>:computer: C/C++</h3>
+<h3>:computer: C/C++ & Computer Vision</h3>
 <ul>
   <li><a href="https://github.com/birlutiuclaudiu/HumanComputerInteraction"> Human-Computer Interaction, Technical University of Cluj-Napoca - solutions </a></li>
-  <li><a href="https://github.com/birlutiuclaudiu/SpringSecurity.git"> Demo Spring Security </a> </li>
+  <li><a href="https://github.com/birlutiuclaudiu/ImageProcessing.git"> Image Processing, Technical University of Cluj-Napoca - solutions </a> </li>
 </ul>
 
 <h3>:computer: Security </h3>
