@@ -29,7 +29,8 @@
 <h3>:computer: C/C++ & Computer Vision</h3>
 <ul>
   <li><a href="https://github.com/birlutiuclaudiu/HumanComputerInteraction"> Human-Computer Interaction, Technical University of Cluj-Napoca - solutions </a></li>
-  <li><a href="https://github.com/birlutiuclaudiu/ImageProcessing.git"> Image Processing, Technical University of Cluj-Napoca - solutions </a> </li>
+  <li><a href="https://github.com/birlutiuclaudiu/ImageProcessing.git"> Image Processing, Technical University of Cluj-Napoca - solutions </a> </li> 
+  <li><a href="https://github.com/birlutiuclaudiu/Kmeans.git"> Kmeans </a> </li>
 </ul>
 
 <h3>:computer: Security </h3>
@@ -45,6 +46,16 @@
 <ul>
   <li><a href="https://github.com/birlutiuclaudiu/NetworkDesign.git"> Network Design </a></li>
   <li><a href="https://github.com/birlutiuclaudiu/RelayNodes.git">Relay Nodes </a> </li>
+</ul>
+
+<h3>:computer: Assembly x86 </h3>
+<ul>
+  <li><a href="https://github.com/birlutiuclaudiu/Assembly_matrix_operations_project.git"> Matrix operations </a></li>
+</ul>
+
+<h3>:computer: Prolog </h3>
+<ul>
+  <li><a href="https://github.com/birlutiuclaudiu/LogicProgramming_laboratory.git"> Logic Programming, Technical University of Cluj-Napoca - laboratory solutions</a></li>
 </ul>
 
 
