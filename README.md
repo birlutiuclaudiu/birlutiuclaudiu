@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Claudiu-Andrei Birlutiu - software engineer</h1>
+<h1 align="center"> Claudiu-Andrei Birlutiu - software engineer</h1>
 <h3 align="center"> Recent Computer Science graduate with a passion for Software Engineering and Java Development</h3>
 
 - 🔭 I’m currently study **Artificial Intelligence and Computer Vision master, Technical University of Cluj-Napoca**
@@ -13,27 +13,27 @@
 
 <h2>My Projects</h2>
 
-<h3>:star: Java and Spring Boot</h3>
+<h3>:computer: Java and Spring Boot</h3>
 <ul>
   <li><a href="https://github.com/birlutiuclaudiu/TravelPoints.git"> Travel Points </a></li>
   <li><a href="https://github.com/birlutiuclaudiu/SpringSecurity.git"> Demo Spring Security </a> </li>
 </ul>
 
-<h3>:star: Python</h3>
+<h3>:computer: Python</h3>
 <ul>
   <li><a href="https://github.com/birlutiuclaudiu/SimpleChat.git"> Simple Chat Django</a></li>
 </ul>
 
-<h3>:fire: C/C++</h3>
+<h3>:computer: C/C++</h3>
 <h4> <a href="https://github.com/birlutiuclaudiu/TravelPoints.git"> Travel Points </a> </h4>
 
-<h3>:sparkles: Security </h3>
+<h3>:computer: Security </h3>
 <h4> <a href="https://github.com/birlutiuclaudiu/SecurityOfSystemsAndApplications.git"> SEED Labs - solutions </a> </h4> 
 
-<h3>:sparkles: Node Js / React </h3>
+<h3>:computer: Node Js / React </h3>
 <h4> <a href="https://github.com/birlutiuclaudiu/TravelPoints.git"> Travel Points </a> </h4> 
 
-<h3>:star: Computer Networking</h3>
+<h3>:computer: Computer Networking</h3>
 <ul>
   <li><a href="https://github.com/birlutiuclaudiu/NetworkDesign.git"> Network Design </a></li>
   <li><a href="https://github.com/birlutiuclaudiu/RelayNodes.git">Relay Nodes </a> </li>
