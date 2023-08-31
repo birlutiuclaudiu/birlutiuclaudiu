@@ -4,8 +4,7 @@
 - 🔭 I’m currently study **Artificial Intelligence and Computer Vision master, Technical University of Cluj-Napoca**
 
 - 🌱 Bachelor's degree **Technical University of Cluj-Napoca, Faculty of Automation and Computer Science**
-  
-- <h3> :page_with_curl: <a href="https://github.com/birlutiuclaudiu/CV_Template_Birlutiu.git"> My Resume</a> </h3>
+-  :page_with_curl: <a href="https://github.com/birlutiuclaudiu/CV_Template_Birlutiu.git"> My Resume</a> 
 
 <h2>My Expertise</h2>
 <h3>Java Development 🚀</h3>
