@@ -96,4 +96,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=birlutiuclaudiu&" alt="birlutiuclaudiu" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)]([https://youtu.be/nTQUwghvy5Q](https://www.youtube.com/playlist?list=PLACrcGliaX5-nVdtOABlBx-kIkph3i8Sh)https://www.youtube.com/playlist?list=PLACrcGliaX5-nVdtOABlBx-kIkph3i8Sh)
 
