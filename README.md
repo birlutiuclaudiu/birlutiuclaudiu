@@ -16,10 +16,12 @@
 <h3>:computer: Java and Spring Boot</h3>
 <ul>
   <li><a href="https://github.com/birlutiuclaudiu/TravelPoints.git"> Travel Points </a></li>
-  <li><a href="https://github.com/birlutiuclaudiu/SpringSecurity.git"> Demo Spring Security </a> </li> 
+  <li><a href="https://github.com/birlutiuclaudiu/SpringSecurity.git"> Demo Spring Security </a> </li>  
+  <li><a href="https://github.com/birlutiuclaudiu/EducationalSoft_ClientServer.git"> Educational Soft - Circle Geometry, Desktop Swing App </a> </li>
   <li><a href="https://github.com/birlutiuclaudiu/FoodDeliveryManagemntSystem.git"> Food Delivery Managemnt System</a> </li>  
   <li><a href="https://github.com/birlutiuclaudiu/OrderManagement.git"> Order Management</a> </li>
-  <li><a href="https://github.com/birlutiuclaudiu/QueuesSimulation.git"> Queues Simulation - multithreading</a> </li>
+  <li><a href="https://github.com/birlutiuclaudiu/QueuesSimulation.git"> Queues Simulation - multithreading</a> </li> 
+  <li><a href="https://github.com/birlutiuclaudiu/PolynomialCalculator.git"> Polynomial Calculator, Desktop Swing App </a> </li>
 </ul>
 
 
@@ -27,14 +29,16 @@
 <ul>
   <li><a href="https://github.com/birlutiuclaudiu/SimpleChat.git"> Simple Chat Django</a></li> 
   <li><a href="https://github.com/birlutiuclaudiu/PredictMergingConflicts.git"> Predict Merging Conflicts - Random Forest Classifier </a></li> 
-  <li><a href="https://github.com/birlutiuclaudiu/TextAnalyzingHuggingFace.git">Text Analyzing Hugging Face - NLP </a></li>
+  <li><a href="https://github.com/birlutiuclaudiu/TextAnalyzingHuggingFace.git">Text Analyzing Hugging Face - NLP </a></li> 
+  <li><a href="https://github.com/birlutiuclaudiu/ArtificialIntellingence.git"> Artificial Intelligence, Technical University of Cluj-Napoca - projects </a></li>
 </ul>
 
 <h3>:computer: C/C++ & Computer Vision</h3>
 <ul>
   <li><a href="https://github.com/birlutiuclaudiu/HumanComputerInteraction"> Human-Computer Interaction, Technical University of Cluj-Napoca - solutions </a></li>
   <li><a href="https://github.com/birlutiuclaudiu/ImageProcessing.git"> Image Processing, Technical University of Cluj-Napoca - solutions </a> </li> 
-  <li><a href="https://github.com/birlutiuclaudiu/Kmeans.git"> Kmeans </a> </li>
+  <li><a href="https://github.com/birlutiuclaudiu/Kmeans.git"> Kmeans </a> </li> 
+  <li><a href="https://github.com/birlutiuclaudiu/MedievalVillageOpenGL.git"> Medieval Village, Open GL 3D Scene </a> </li>
 </ul>
 
 <h3>:computer: Security </h3>
@@ -61,6 +65,13 @@
 <ul>
   <li><a href="https://github.com/birlutiuclaudiu/LogicProgramming_laboratory.git"> Logic Programming, Technical University of Cluj-Napoca - laboratory solutions</a></li>
 </ul>
+
+<h3>:computer: Hardware - Arduino & VHDL </h3>
+<ul>
+  <li><a href="https://github.com/birlutiuclaudiu/ControllerVGA_MicroSD.git"> VGA Controller using Nexys 4 DDR. MicroSD reader</a></li> 
+  <li><a href="https://github.com/birlutiuclaudiu/LedCube.git"> 4x4x4 Led Cube, Arduino</a></li> 
+</ul>
+
 
 
 <h2>Future Endeavors</h2>
