@@ -15,6 +15,7 @@
 
 <h3>:computer: Java and Spring Boot</h3>
 <ul>
+  <li><a href="https://github.com/DS202230643BirlutiuClaudiuAndrei/EnergyPlatform-SpringBoot.git"> Energy Platform - Spring Rest Api</a></li> 
   <li><a href="https://github.com/birlutiuclaudiu/TravelPoints.git"> Travel Points </a></li>
   <li><a href="https://github.com/birlutiuclaudiu/SpringSecurity.git"> Demo Spring Security </a> </li>  
   <li><a href="https://github.com/birlutiuclaudiu/EducationalSoft_ClientServer.git"> Educational Soft - Circle Geometry, Desktop Swing App </a> </li>
@@ -48,7 +49,9 @@
 
 
 <h3>:computer: Node Js / React </h3>
-<h4> <a href="https://github.com/birlutiuclaudiu/TravelPoints.git"> Travel Points </a> </h4> 
+<ul>
+ <li> <a href="https://github.com/DS202230643BirlutiuClaudiuAndrei/EnergyPlatform-ReactJs.git"> Energy Platform - ReactJs frontend</a> </li>
+</ul>
 
 <h3>:computer: Computer Networking</h3>
 <ul>
