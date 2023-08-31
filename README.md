@@ -22,7 +22,8 @@
 <h3>:computer: Python</h3>
 <ul>
   <li><a href="https://github.com/birlutiuclaudiu/SimpleChat.git"> Simple Chat Django</a></li> 
-  <li><a href="https://github.com/birlutiuclaudiu/PredictMergingConflicts.git"> Predict Merging Conflicts - Random Forest Classifier </a></li>
+  <li><a href="https://github.com/birlutiuclaudiu/PredictMergingConflicts.git"> Predict Merging Conflicts - Random Forest Classifier </a></li> 
+  <li><a href="https://github.com/birlutiuclaudiu/TextAnalyzingHuggingFace.git">Text Analyzing Hugging Face - NLP </a></li>
 </ul>
 
 <h3>:computer: C/C++</h3>
@@ -45,6 +46,7 @@
   <li><a href="https://github.com/birlutiuclaudiu/NetworkDesign.git"> Network Design </a></li>
   <li><a href="https://github.com/birlutiuclaudiu/RelayNodes.git">Relay Nodes </a> </li>
 </ul>
+
 
 <h2>Future Endeavors</h2>
 <p>I'm committed to continuous learning and growth. I plan to pursue further education in AI and Computer Vision, aiming to contribute to advancements in these fields.
