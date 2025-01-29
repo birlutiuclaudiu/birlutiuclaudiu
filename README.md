@@ -70,7 +70,7 @@
 <h3>:computer: Prolog </h3>
 <ul>
   <li><a href="https://github.com/birlutiuclaudiu/LogicProgramming_laboratory.git"> Logic Programming, Technical University of Cluj-Napoca - laboratory solutions</a></li>
-  <li><a href="[https://github.com/birlutiuclaudiu/LogicProgramming_laboratory.git](https://github.com/birlutiuclaudiu/LedCube.git)"> Natural language processing</a></li>
+  <li><a href="https://github.com/birlutiuclaudiu/nlp"> Natural language processing</a></li>
 </ul>
 
 <h3>:computer: Hardware - Arduino & VHDL </h3>
